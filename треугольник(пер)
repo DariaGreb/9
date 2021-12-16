@@ -1,6 +1,6 @@
 using System;
 
-namespace Metod_Zad2
+namespace triangle
 {
     class Program
     {
